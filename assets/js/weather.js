@@ -55,7 +55,7 @@ async function getWeather() {
 
 async function displayWeather() {
   var weather = await weatherPromise;
-  iconElement.innerHTML = `<img src="assets/icons/${CONFIG.weatherIcons}/${weather.iconId}.png"/>`;
+  iconElement.innerHTML = `<img src="assets/icons/OneDark/${weather.iconId}.png"/>`;
   tempElement.innerHTML = `${weather.temperature.toFixed(0)}°<span class="darkfg">${tempUnit}</span>`;
   descElement.innerHTML = weather.description;
 }
