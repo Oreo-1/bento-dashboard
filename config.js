@@ -13,7 +13,7 @@ const CONFIG = {
   
 	// General
 	name: 'Oreo.',
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: true,
   title: 'Dashboard',
 
