@@ -161,7 +161,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Movie',
-					link: 'https://goku.sx/home',
+					link: 'https://www.bitcine.app/history',
 				},
 			],
 		},
