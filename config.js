@@ -161,7 +161,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Movie',
-					link: 'https://www.bitcine.app/history',
+					link: 'https://www.bitcine.app',
 				},
 			],
 		},
